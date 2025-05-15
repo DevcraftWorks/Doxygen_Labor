@@ -1,5 +1,5 @@
 
-public class ScientificCalculator {
+public class ScientificCalculator extends Calculator{
 
     // TODO:
     // - Lassen Sie diese Klasse von Calculator erben: public class ScientificCalculator extends Calculator
